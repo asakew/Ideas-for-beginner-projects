@@ -1,4 +1,5 @@
 # Projects for Beginners
+## Create a project for your Portfolio
 
 1. **Notes App**: Create a simple note editor where users can create, edit, and delete notes. This is a great way to work with local storage. 📝
 2. Reminder App: Make a simple tool that will remind users of upcoming events or tasks. It is useful and easy to implement! ⏰
